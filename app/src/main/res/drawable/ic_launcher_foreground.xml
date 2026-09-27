@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Browser window card in safe zone (28 to 80) -->
+    <path
+        android:fillColor="#1E293B"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:pathData="M30,36 C30,32.7 32.7,30 36,30 L72,30 C75.3,30 78,32.7 78,36 L78,74 C78,77.3 75.3,80 72,80 L36,80 C32.7,80 30,77.3 30,74 Z" />
+    
+    <!-- Browser header bar -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M30,36 C30,32.7 32.7,30 36,30 L72,30 C75.3,30 78,32.7 78,36 L78,44 L30,44 Z" />
+    
+    <!-- Browser dots -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M36,37m-2,0a2,2 0 1,0 4,0a2,2 0 1,0 -4,0 M42,37m-2,0a2,2 0 1,0 4,0a2,2 0 1,0 -4,0 M48,37m-2,0a2,2 0 1,0 4,0a2,2 0 1,0 -4,0" />
+    
+    <!-- Android Robot head inside / emerging -->
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M44,64 L64,64 C64,57 60,51 54,51 C48,51 44,57 44,64 Z" />
+    <!-- Antennas -->
+    <path
+        android:strokeColor="#60A5FA"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M48,52 L45,47 M60,52 L63,47" />
+    <!-- Robot eyes -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M49,58m-1.2,0a1.2,1.2 0 1,0 2.4,0a1.2,1.2 0 1,0 -2.4,0 M59,58m-1.2,0a1.2,1.2 0 1,0 2.4,0a1.2,1.2 0 1,0 -2.4,0" />
+    
+    <!-- Code / APK badge icon at bottom right -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M62,64 L76,64 C77.1,64 78,64.9 78,66 L78,78 C78,79.1 77.1,80 76,80 L62,80 C60.9,80 60,79.1 60,78 L60,66 C60,64.9 60.9,64 62,64 Z" />
+    
+    <!-- APK text or bolt inside badge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M69,67 L65,73 L68.5,73 L67,77 L73,71 L69.5,71 Z" />
+        
+</vector>

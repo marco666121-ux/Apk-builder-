@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">APK Builder</string>
+    <string name="tagline">Turn your website into an Android app.</string>
+    <string name="hero_title">Create your Android APK</string>
+    <string name="hero_subtitle">Enter your website, customize your app, and build an APK.</string>
+    <string name="action_quick_start">Create App Gallery APK</string>
+    <string name="action_new_project">New APK Project</string>
+    <string name="tab_projects">Projects</string>
+    <string name="tab_build_history">Build History</string>
+    <string name="tab_settings">Settings</string>
+    <string name="btn_build_apk">Build APK</string>
+    <string name="btn_download_apk">Download APK</string>
+    <string name="btn_preview">Live Preview</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_duplicate">Duplicate</string>
+</resources>

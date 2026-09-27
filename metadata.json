@@ -1,0 +1,6 @@
+{
+  "name": "APK Builder",
+  "description": "Turn your website into an Android app. Configure WebView settings, live preview, and build APKs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
